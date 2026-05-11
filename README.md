@@ -1,36 +1,8 @@
-<!--
-**fuadfaruk/fuadfaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Fuad Hassan Faruk</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="fuadfaruk" /> </p>
 
-- 📫 How to reach me **fuadfaruk707@gmail.com**
 
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div align="left">
-  <a href="https://www.codechef.com/users/fuadfaruk"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" alt="javascript logo"  /></a>
-  <img width="12" />
-  <a href="https://codeforces.com/profile/farukfuadhassan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" alt="javascript logo"  /></a>
-  <img width="12" />
-  <a href="https://www.leetcode.com/farukfuadhassan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="javascript logo"  /></a>
-</div>
 
 ###
 
@@ -67,4 +39,22 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadfaruk&" alt="fuadfaruk" /></p>
 
+###
 
+- 📫 DM me at **fuadfaruk707@gmail.com**
+
+###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div align="left">
+  <a href="https://www.codechef.com/users/fuadfaruk"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" alt="javascript logo"  /></a>
+  <img width="12" />
+  <a href="https://codeforces.com/profile/farukfuadhassan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" alt="javascript logo"  /></a>
+  <img width="12" />
+  <a href="https://www.leetcode.com/farukfuadhassan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="javascript logo"  /></a>
+</div>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="fuadfaruk" /> </p>
