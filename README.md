@@ -41,10 +41,6 @@
 
 ###
 
-- 📫 DM me at **fuadfaruk707@gmail.com**
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
@@ -54,6 +50,10 @@
   <img width="12" />
   <a href="https://www.leetcode.com/farukfuadhassan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="javascript logo"  /></a>
 </div>
+
+###
+
+- 📫 DM me at **fuadfaruk707@gmail.com**
 
 ###
 
